@@ -20,3 +20,13 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+#Note text files are not ignored because they are used for documentation purposes
+.txt
+.env.env
+.env
+__pycache__/
+.env
+__pycache__/
+.env
+__pycache__/

@@ -1,0 +1,6 @@
+CUDA_VISIBLE_DEVICES=1 python name.python
+
+ssh -p 2138 <username>@tidpublic.duckdns.org
+
+username= ttsi
+password= ThEo6984855721.
