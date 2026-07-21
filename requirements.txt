@@ -1,2 +1,5 @@
-torch==2.1.0
-transformers==4.35.0
+torch==2.13.0
+transformers==5.14.1
+pandas==3.0.3
+pyarrow==25.0.0
+numpy==
